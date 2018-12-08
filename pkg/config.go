@@ -1,7 +1,7 @@
 package pkg
 
 import (
-	"github.com/deis/registry-token-refresher/pkg/credentials"
+	"github.com/deiscc/registry-token-refresher/pkg/credentials"
 	"io/ioutil"
 	"os"
 	"strconv"
